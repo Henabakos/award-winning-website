@@ -1,8 +1,6 @@
 <div align="center">
-  <br />
-    <a href="https://youtu.be/zA9r5zTllx4" target="_blank">
+  <br /> 
       <img src="https://github.com/user-attachments/assets/ab600f24-f4d9-4cef-8f1e-3fd9194afb30" alt="Project Banner">
-    </a>
   <br />
 
   <div>
@@ -29,7 +27,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Build a visually captivating website inspired by **[Zentry](https://zentry.com/)**, featuring scroll-triggered animations, geometric transitions, and engaging video storytelling. Learn how to deliver a luxurious, modern feel, focusing on engaging UI/UX and smooth responsiveness, capturing the essence of what makes an Awwwards winner.
+Iam building a visually captivating website inspired by **[Zentry](https://zentry.com/)**, featuring scroll-triggered animations, geometric transitions, and engaging video storytelling. It has modern feel, focusing on engaging UI/UX and smooth responsiveness, capturing the essence of what makes an Awwwards winner.
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
